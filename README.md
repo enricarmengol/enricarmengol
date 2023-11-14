@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, PHP and CSS**
 
-- 👨‍💻 Some of my projects are available at [enricarmengol.carrd.co](enricarmengol.carrd.co)
+- 👨‍💻 Some of my projects are available at [www.enricarmengol.carrd.co](enricarmengol.carrd.co)
 
 - 📫 How to reach me **armengolgarciaenric@gmail.com**
 
