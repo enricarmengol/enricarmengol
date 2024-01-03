@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **getting my DAW degree.**
 
-- 🌱 I’m currently learning **JavaScript, PHP and CSS**
+- 🌱 I’m currently learning **React, PHP and TailwindCSS**
 
 - 👨‍💻 Some of my projects are available at [www.enricarmengol.carrd.co](www.enricarmengol.carrd.co)
 
