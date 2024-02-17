@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, PHP and TailwindCSS**
 
-- 👨‍💻 Some of my projects are available at ([www.enricarmengol.com](https://enricarmengol.com))
+- 👨‍💻 Some of my projects are available at [www.enricarmengol.com](https://enricarmengol.com)
 
 - 📫 How to reach me **armengolgarciaenric@gmail.com**
 
